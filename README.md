@@ -1,4 +1,4 @@
 # demo
 This is my first Git Repository.
 <br>
-Author-Tejas
+Author-Tejas M S
